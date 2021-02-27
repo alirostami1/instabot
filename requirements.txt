@@ -1,0 +1,3 @@
+instapy==0.6.13
+instapy-chromedriver==2.46
+python-dotenv==0.15.0
