@@ -1,5 +1,5 @@
 # instabot
-:warning:FAILED
+:warning: FAILED\
 Python script for automating Instagram interactions(follow, unfollow and like) using InpstPy.\
 The main objective is to gain followers.
 
